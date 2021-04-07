@@ -1,4 +1,4 @@
-# AttendingUniversityAtBuffalo
+## AttendingUniversityAtBuffalo
 Congratulations for making it to University at Buffalo. Welcome to UB! This is a repository to help you have a smooth transition from your homeland country to UB! This repository was last updated on 23rd March 2021.
 
 *This repository is a contribution of many UB students. The sole purpose of this repository is to help you out with onboarding. Please do not try to misuse this information.* 
@@ -11,9 +11,22 @@ Congratulations for making it to University at Buffalo. Welcome to UB! This is a
 - This presentation is based upon a senior’s experience and is not an official one. Do not rely on it completely.
 - *Use your UB email id to view/download the recording* [Link to the video](https://buffalo.box.com/s/1nwdc5crncs4u1c1g6m1cgow9ymd0zki)
 
+## Important Links - FAQs
+- #### [Networking Guidelines (USA specific, You may not know)](https://gist.github.com/snigi-gupta/90b2ba5fa4d98eb4f529c72e146e0fef)
+- #### [Confused b/w A univ and B univ? Or cannot decide between 'MS in X' vs 'MS in Y' course?](https://gist.github.com/snigi-gupta/7ea7ec4a70fba714d6c84fffef2b5ad2)
+- #### [My UB Experience, Blunt and Honest](https://gist.github.com/snigi-gupta/afc478bfd0a8dde508a6687820df3342)
+- #### [How are interviews conducted in USA](https://gist.github.com/snigi-gupta/0afc2824ec015fb93b2b06dc518653c7)
+- #### [UB location disadvanatge?!](https://gist.github.com/snigi-gupta/673e4588158b8e9901a3f664ea3f7e19)</br>
+- #### [UB CSE Course related Information](https://github.com/snigi-gupta/AttendingUniversityAtBuffalo/tree/main/Computer%20Science%20Important%20Tips)
+- #### [Your question might be answered in the Discussion space. Check it out.](https://github.com/snigi-gupta/AttendingUniversityAtBuffalo/discussions)
+- #### [Don't be a Lazy Googler](https://gist.github.com/snigi-gupta/118297c95c1047979c46831908ba84cf)
 
+If you have questions, please use the ***GitHub QnA Discussion space!!.*** 
+<img src="https://user-images.githubusercontent.com/56351901/112712559-d5f12c80-8ea6-11eb-8d5e-b05ab878b8a5.gif" width="600" height="302">
 
-# Contents
+I get notified via email when you submit your question and I am pretty quick with my responses on GitHub! </br>
+
+## Contents
 
 Here is a list of the documents present in this repo. 
 
@@ -40,18 +53,15 @@ Here is a list of the documents present in this repo.
 |19|Visa Interview Questions and Answers by Vivek Nichenametla.docx             | Read VISA interviews of previous students and get an idea of what to expect.
 |20|Visa Related Documents.jpeg                                                 | Short index for VISA checklist.
 
-# Contributors
-- Snigdha Gupta https://www.linkedin.com/in/snigi/
-- Dixit Thiya https://www.linkedin.com/in/dixitthiya/
-- Disha Ravipati https://www.linkedin.com/in/disharavipati/
+**Note: If you want to contribute to this repo or update an information please contact me at snigdhag@buffalo.edu**
+
+#### Contributors
+- [Snigdha Gupta](https://www.linkedin.com/in/snigi/)
+- [Dixit Thiya](https://www.linkedin.com/in/dixitthiya/)
+- [Raunaq Jain](https://www.linkedin.com/in/jainraunaq/)
+- [Disha Ravipati](https://www.linkedin.com/in/disharavipati/)
 - Parth Rajput
 - KLV Rohan
 - Ashwad Pandit
 - Harshith Jain
-- Vivek Nichenametla https://www.linkedin.com/in/vivek-nichenametla-646381a2/
-
-### If you have questions, please use the *GitHub QnA Discussion space!!*. 
-![image](https://user-images.githubusercontent.com/56351901/112260930-3da63e00-8c41-11eb-96da-7a4447a3ef1f.png) 
-### I get notified via email when you submit your question and I am pretty quick with my responses on GitHub!
-
-### Note: If you want to contribute to this repo or update an information please contact me at snigdhag@buffalo.edu
+- [Vivek Nichenametla](https://www.linkedin.com/in/vivek-nichenametla-646381a2/) </br>
